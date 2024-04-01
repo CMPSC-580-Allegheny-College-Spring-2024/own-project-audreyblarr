@@ -1,0 +1,41 @@
+# --> check the technical writing for various characteristics
+- project_proposal.md:
+  - description: Ensure that the project_proposal.md file exists in the root/ directory
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers and extraneous text in the proposal
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+  - description: Delete the 'Add Your Name Here' prompt in the proposal file
+    check: MatchFileFragment
+    options:
+      fragment: "Add Your Name Here"
+      count: 0
+      exact: true
+  - description: Delete the 'Enter The Name Of Your Project' prompt in the proposal file
+    check: MatchFileFragment
+    options:
+      fragment: "Enter The Name Of Your Project"
+      count: 0
+      exact: true
+  - description: Proposal contains a minimum number of required words
+    check: CountFileWords
+    options:
+      count: 2000
+      exact: false
+- src/README.md:
+  - description: Ensure that the README.md file exists in the src/ directory
+    check: ConfirmFileExists
+  - description: Complete all TODOs, remove the TODO markers and extraneous text in the src/README.md
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+# count number of commits in the GitHub repository
+- description: Have at least at least 30 commits in repository
+  check: CountCommits
+  options:
+    count: 30
