@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2OGTtL0Y)
 # Junior Seminar (CMPSC 580) Own Project Repository
 
 ## Semester: Spring 2024
@@ -31,10 +32,10 @@ Students are encouraged to follow the below timeline to ensure timely completion
 
 To complete this assignment, you are required to:
 
-1. complete a proof-of-concept prototype with all source code (and data if relevant) stored in the `\src` directory and submitted in `own_project` repository by  the deadline,
+1. complete a proof-of-concept prototype with all source code (and data if relevant) stored in the `\src` directory and submitted in `own_project` repository by the deadline,
 2. create a demo video showing the key  features of your prototype and submit using the provided [Google form](https://forms.gle/7UebHZU4CFzfTrY57) by the deadline,
 3. write a project proposal with all sections outlined in `project_proposal.md` completed and submit in `own_project` repository by the deadline,
-4. prepare slides for a presentation of the proposed project in [Proposed Project Pitches Slide Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing) before 1:30PM on 15th April and pitch the proposed project to all faculty in the department in class on 15-17 April.
+4. prepare slides for a presentation of the proposed project in [Proposed Project Pitches Slide Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing) before 1:30PM on 15th April and pitch the proposed project to all faculty in the department in class on 15-17 April
 
 ### Prototype
 
@@ -42,11 +43,11 @@ While the proof-of-concept prototype does not have to fully implement the artifa
 
 ### Prototype Demo Video
 
-A 1-2 minute video (in an MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
+A 1-2 minute video (in MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
 
 ### Project Proposal
 
-The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can  be found in the `project_proposal.md` document.
+The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can be found in the `project_proposal.md` document.
 
 ### Project Pitch
 
@@ -139,9 +140,9 @@ You can check the baseline writing and commit requirements for this assignment b
 Then, if you have not done so already, you need to install `gatorgrade`:
 
 - First, [install `pipx`](https://pypa.github.io/pipx/installation/)
-- Then, install `gatorgrade` with `pipx install gatorgrade`
+- Then, install `gatorgrade` with `pipx install gatorgrade`.
 
-Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`
+Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`.
 
 ## Seeking Assistance
 
