@@ -61,8 +61,8 @@ There are many tasks needing to be done to perfect this prototype and ensure an 
 
 ## References
 
-[1] George, T. (2021, August 26). What Are Credible Sources & How to Spot Them | Examples. Scribbr. Retrieved May 3, 2024, from https://www.scribbr.com/working-with-sources/credible-sources/
-[2] Leonard Richardson Revision 546. (2015). Beautiful Soup Documentation. Beautiful Soup. Retrieved May 3, 2024, from https://beautiful-soup-4.readthedocs.io/en/latest/
-[3] LinkedIn. (2023, October 19). Web Scraping Author and Affiliation Data for Collaboration Analysis. LinkedIn. Retrieved May 3, 2024, from https://www.linkedin.com/advice/3/how-can-you-extract-author-affiliation-data-from-academic-ksquf
-[4] Lofaro, L. (2024). Working With JSON Data in Python – Real Python. Real Python. Retrieved May 3, 2024, from https://realpython.com/python-json/
-[5] Mohan, M. (2020, September 25). Web Scraping Python Tutorial – How to Scrape Data From A Website. freeCodeCamp. Retrieved May 3, 2024, from https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/
+[1] George, T. (2021, August 26). What Are Credible Sources & How to Spot Them | Examples. Scribbr. Retrieved May 3, 2024, from https://www.scribbr.com/working-with-sources/credible-sources/ \n
+[2] Leonard Richardson Revision 546. (2015). Beautiful Soup Documentation. Beautiful Soup. Retrieved May 3, 2024, from https://beautiful-soup-4.readthedocs.io/en/latest/ \n
+[3] LinkedIn. (2023, October 19). Web Scraping Author and Affiliation Data for Collaboration Analysis. LinkedIn. Retrieved May 3, 2024, from https://www.linkedin.com/advice/3/how-can-you-extract-author-affiliation-data-from-academic-ksquf \n
+[4] Lofaro, L. (2024). Working With JSON Data in Python – Real Python. Real Python. Retrieved May 3, 2024, from https://realpython.com/python-json/ \n
+[5] Mohan, M. (2020, September 25). Web Scraping Python Tutorial – How to Scrape Data From A Website. freeCodeCamp. Retrieved May 3, 2024, from https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/ \n
