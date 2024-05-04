@@ -10,7 +10,7 @@ Outline the  main technical features of your prototype.
 
 ## Requirements
 
-TODO: Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
+Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
 
 ## Using the Prototype
 
