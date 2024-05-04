@@ -8,6 +8,8 @@ To allow the user to experience and execute your prototype, you must first expla
 
 Data scraping using BeautifulSoup (BeautifulSoup() and soup.select_one() methods) and requests Python modules (requests.get() method), organization and storage of data using JSON (json.loads() method).
 
+URL for article tested within this project: https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/ 
+
 ## Requirements
 
 BeautifulSoup (Version 4.0)
