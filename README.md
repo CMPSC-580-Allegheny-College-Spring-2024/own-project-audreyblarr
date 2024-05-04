@@ -35,7 +35,7 @@ To complete this assignment, you are required to:
 1. complete a proof-of-concept prototype with all source code (and data if relevant) stored in the `\src` directory and submitted in `own_project` repository by the deadline,
 2. create a demo video showing the key  features of your prototype and submit using the provided [Google form](https://forms.gle/7UebHZU4CFzfTrY57) by the deadline,
 3. write a project proposal with all sections outlined in `project_proposal.md` completed and submit in `own_project` repository by the deadline,
-4. prepare slides for a presentation of the proposed project in [Proposed Project Pitches Slide Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing) before 1:30PM on 15th April and pitch the proposed project to all faculty in the department in class on 15-17 April.
+4. prepare slides for a presentation of the proposed project in [Proposed Project Pitches Slide Deck](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing) before 1:30PM on 15th April and pitch the proposed project to all faculty in the department in class on 15-17 April
 
 ### Prototype
 
