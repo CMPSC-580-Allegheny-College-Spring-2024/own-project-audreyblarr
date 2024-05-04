@@ -18,8 +18,6 @@ JSON
 
 ## Using the Prototype
 
-Provide details for how to run your artifact. Include specific commands and step by step instructions.
-
 Prerequisites:
 Install BeautifulSoup (pip install beautifulsoup4)
 Install requests (pip install requests)
