@@ -49,4 +49,3 @@ pub_url = data["publisher"]["url"]
 print(f"The publisher of your article is {publisher}. Read more about this publisher here to determine their reliability: {pub_url}.\n")
 
 print(f"Through a quick analysis of your article in question, the reliability score is determined to be a {score}. However, it's important to follow through with research of your own, both on the author(s) and the publisher, to fully determine whether or not the information presented is trustworthy to use in further research.")
-
