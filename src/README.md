@@ -10,8 +10,6 @@ Data scraping using BeautifulSoup (BeautifulSoup() and soup.select_one() methods
 
 ## Requirements
 
-Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
-
 BeautifulSoup (Version 4.0)
 requests (Version 2.31.0)
 JSON
