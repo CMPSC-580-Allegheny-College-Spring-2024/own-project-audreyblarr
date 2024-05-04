@@ -140,7 +140,7 @@ You can check the baseline writing and commit requirements for this assignment b
 Then, if you have not done so already, you need to install `gatorgrade`:
 
 - First, [install `pipx`](https://pypa.github.io/pipx/installation/)
-- Then, install `gatorgrade` with `pipx install gatorgrade`
+- Then, install `gatorgrade` with `pipx install gatorgrade`.
 
 Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`.
 
