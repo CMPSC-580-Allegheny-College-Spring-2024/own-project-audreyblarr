@@ -43,7 +43,7 @@ While the proof-of-concept prototype does not have to fully implement the artifa
 
 ### Prototype Demo Video
 
-A 1-2 minute video (in an MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
+A 1-2 minute video (in MP4 format) demonstrating key features of your developed prototype must be  submitted by the final project deadline via the provided [Google Form](https://forms.gle/7UebHZU4CFzfTrY57).
 
 ### Project Proposal
 
