@@ -14,4 +14,4 @@ Include the software and hardware needed to run your prototype. Be sure to speci
 
 ## Using the Prototype
 
-TODO: Provide details for how to run your artifact. Include specific commands and step by step instructions.
+Provide details for how to run your artifact. Include specific commands and step by step instructions.
