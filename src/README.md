@@ -6,7 +6,7 @@ To allow the user to experience and execute your prototype, you must first expla
 
 ## Key Features
 
-TODO: Outline the  main technical features of your prototype.
+Outline the  main technical features of your prototype.
 
 ## Requirements
 
