@@ -6,13 +6,15 @@ To allow the user to experience and execute your prototype, you must first expla
 
 ## Key Features
 
-Outline the  main technical features of your prototype.
-
 Data scraping using BeautifulSoup (BeautifulSoup() and soup.select_one() methods) and requests Python modules (requests.get() method), organization and storage of data using JSON (json.loads() method).
 
 ## Requirements
 
 Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
+
+BeautifulSoup (Version 4.0)
+requests (Version 2.31.0)
+JSON
 
 ## Using the Prototype
 
