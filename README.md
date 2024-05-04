@@ -149,4 +149,4 @@ Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`
 * Extra resources for using Markdown include;
 + [Markdown Tidbits](https://www.youtube.com/watch?v=cdJEUAy5IyA)
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Do not forget to use the above git commands to push your work to the cloud for the instructor to grade your assignment. You can go to your GitHub repository using your browser to verify that your files have been submitted. Please see the TL’s or the instructor if you have any questions about assignment submission
+* Do not forget to use the above git commands to push your work to the cloud for the instructor to grade your assignment. You can go to your GitHub repository using your browser to verify that your files have been submitted. Please see the TL’s or the instructor if you have any questions about assignment submission.
