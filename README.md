@@ -47,7 +47,7 @@ A 1-2 minute video (in MP4 format) demonstrating key features of your developed 
 
 ### Project Proposal
 
-The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can  be found in the `project_proposal.md` document.
+The project proposal needs to contain the following five sections: _Introduction_, _Literature Review_, _Prototype_, _Preliminary Results and Outcomes_, and _Conclusions and Future Work_. The requirements of these sections is detailed in the "Assessment" section below and additional information can be found in the `project_proposal.md` document.
 
 ### Project Pitch
 
