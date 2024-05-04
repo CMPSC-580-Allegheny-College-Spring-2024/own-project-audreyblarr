@@ -142,7 +142,7 @@ Then, if you have not done so already, you need to install `gatorgrade`:
 - First, [install `pipx`](https://pypa.github.io/pipx/installation/)
 - Then, install `gatorgrade` with `pipx install gatorgrade`
 
-Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`
+Finally, you can run `gatorgrade`: `gatorgrade --config config/gatorgrade.yml`.
 
 ## Seeking Assistance
 
